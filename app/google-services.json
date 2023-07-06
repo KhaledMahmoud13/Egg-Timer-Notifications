@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "319429595634",
+    "project_id": "fcm-notifications-43320",
+    "storage_bucket": "fcm-notifications-43320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319429595634:android:b302a01d5b55066dba5b6b",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319429595634-8bgou18dkohfrmss6fcpa7th2nogctf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_19_n8FK1o0xi_SWBXefzBAIiYW6F78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319429595634-8bgou18dkohfrmss6fcpa7th2nogctf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319429595634:android:cdd3801f054164a8ba5b6b",
+        "android_client_info": {
+          "package_name": "com.khaled.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319429595634-8bgou18dkohfrmss6fcpa7th2nogctf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_19_n8FK1o0xi_SWBXefzBAIiYW6F78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319429595634-8bgou18dkohfrmss6fcpa7th2nogctf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
